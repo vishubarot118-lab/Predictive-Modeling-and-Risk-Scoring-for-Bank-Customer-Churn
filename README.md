@@ -1,0 +1,1 @@
+This project develops a predictive modeling and risk scoring system to identify potential bank customer churn. It leverages data analysis and machine learning algorithms to provide insights and improve customer retention strategies.
